@@ -1,4 +1,4 @@
-# ECE-4180-Final-Project_AM
+# Home_Alarm_System
 Ramsey and Mia ECE 4180 Final Project
 
 Team Members 
