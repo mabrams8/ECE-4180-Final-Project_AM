@@ -19,3 +19,6 @@ Small Door Lock (maybe Adafruit door lock solenoid)
 Relay 
 External Power Supply (Batteries)  
 Voltage regulators/dividers (common ground)  
+
+Presentation Link
+https://docs.google.com/presentation/d/13hkr7wmTZ0kfDtsK0MI8UhCZ031RvhDn/edit?usp=sharing&ouid=109569485230091534977&rtpof=true&sd=true
